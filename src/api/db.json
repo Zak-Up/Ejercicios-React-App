@@ -1,0 +1,44 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "Breaking Bad",
+      "estreno": "2008"
+    },
+    {
+      "id": 2,
+      "name": "Vikings",
+      "estreno": "2013"
+    },
+    {
+      "id": 3,
+      "name": "Game Of Thrones",
+      "estreno": "2011"
+    },
+    {
+      "id": 4,
+      "name": "Peaky Blinders",
+      "estreno": "2013"
+    },
+    {
+      "id": 5,
+      "name": "Los Soprano",
+      "estreno": "1999"
+    },
+    {
+      "name": "The Last Kingdom",
+      "estreno": "2021",
+      "id": 1652830050982
+    },
+    {
+      "name": "Black Mirror",
+      "estreno": "2017",
+      "id": 1652831120038
+    },
+    {
+      "name": "3%",
+      "estreno": "2017",
+      "id": 1652831242316
+    }
+  ]
+}
